@@ -2,6 +2,10 @@
 
 A modern, responsive weather application built with React, TypeScript, and Tailwind CSS that provides current weather conditions, 5-day forecasts, and air quality information.
 
+## USER INTERFACE
+
+![Screenshot 2024-12-01 195607](https://github.com/user-attachments/assets/c3dd579d-e8e0-4405-ae06-bbeb84fa2e40)
+
 ## Features
 
 - **Current Weather Display**: Shows temperature, conditions, humidity, and wind speed
@@ -10,8 +14,6 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 - **Location Search**: Search weather information for any city
 - **Responsive Design**: Optimized for both desktop and mobile devices
 - **Error Handling**: Graceful error handling with user-friendly messages
-- ![image](https://github.com/user-attachments/assets/9e330a97-5746-4f5c-909b-fd73d4239b03)
-
 - **Default Location**: Kakinada set as the default location
 
 ## Technical Stack
