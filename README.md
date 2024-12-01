@@ -10,6 +10,8 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 - **Location Search**: Search weather information for any city
 - **Responsive Design**: Optimized for both desktop and mobile devices
 - **Error Handling**: Graceful error handling with user-friendly messages
+- ![image](https://github.com/user-attachments/assets/9e330a97-5746-4f5c-909b-fd73d4239b03)
+
 - **Default Location**: Kakinada set as the default location
 
 ## Technical Stack
